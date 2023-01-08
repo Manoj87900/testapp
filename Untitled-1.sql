@@ -1,7 +1,5 @@
 SET ANSI_NULLS ON
 GO
-SET QUOTED_IDENTIFIER ON
-GO
 CREATE TABLE [dbo].[tbldepartment](
 	[Id] [int] NOT NULL,
 	[Dname] [nvarchar](50) NOT NULL,
